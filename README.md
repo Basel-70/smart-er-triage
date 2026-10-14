@@ -118,7 +118,7 @@ Python · pandas · scikit-learn · SQLite · prompt_toolkit · HUMAIN Voice · 
 ## Data
 
 - **`Doctor_Data.csv`**: created by the author for this project. All doctor names and details are fictional.
-- **`data_triage.csv`**: a publicly available emergency triage dataset collected online. The original source wasn't recorded; if you know it, please open an issue so it can be credited. This dataset is not covered by this project's license.
+- **`data_triage.csv`**: the [FedMML Emergency Department Triage Dataset](https://huggingface.co/datasets/olaflaitinen/fedmml-ed-triage) by Gustav Olaf Yunus Laitinen-Fredriksson Lundström-Imanov and Sila Burde Dulger. It is a fully synthetic dataset of 87,234 ER encounters from six hospitals in Denmark, Turkey and Latvia, and contains no real patient data. It is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and is not covered by this project's MIT license.
 
 ## Disclaimer
 
