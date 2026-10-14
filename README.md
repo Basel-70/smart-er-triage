@@ -115,9 +115,20 @@ speak("Please remain where you are. A nurse will assist you shortly.")
 
 Python · pandas · scikit-learn · SQLite · prompt_toolkit · HUMAIN Voice · sounddevice · NumPy
 
+## Data
+
+- **`Doctor_Data.csv`**: created by the author for this project. All doctor names and details are fictional.
+- **`data_triage.csv`**: a publicly available emergency triage dataset collected online. The original source wasn't recorded; if you know it, please open an issue so it can be credited. This dataset is not covered by this project's license.
+
 ## Disclaimer
 
-This is an educational project and is not a medical device. It must not be used to make real clinical decisions. The doctor names and data are synthetic.
+This is an educational project and is not a medical device. It must not be used to make real clinical decisions.
+
+## License
+
+The code in this project is released under the [MIT License](LICENSE).
+
+HUMAIN and the HUMAIN logo are trademarks of HUMAIN and are used here only to identify the voice service this project uses.
 
 ## Author
 
