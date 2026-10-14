@@ -1,0 +1,31 @@
+doctor_id,doctor_name,gender,specialty,department,room_number,availability,shift,experience_years,phone_extension
+1,Elsinore Sandwich,M,General Surgery,Surgery,303,Off Duty,Night,16,534
+2,Gwenny Leidl,M,Orthopedics,Orthopedics,402,Busy,Morning,14,309
+3,Saba Meadowcroft,F,Emergency Medicine,Emergency Department,109,Available,Morning,29,808
+4,Estrella Chattoe,F,General Medicine,General Medicine,901,Available,Morning,31,991
+5,Peta Thickett,M,Internal Medicine,Internal Medicine,204,Off Duty,Night,34,457
+6,Yorker Zoephel,M,Emergency Medicine,Emergency Department,113,Available,Morning,9,226
+7,Leighton Scholtz,F,General Medicine,General Medicine,901,Busy,Morning,30,238
+8,Wake Szwandt,F,Neurology,Neurology,509,Available,Night,33,140
+9,Dede McGifford,M,Dermatology,Dermatology,802,Busy,Night,19,270
+10,Darci Wofenden,M,Emergency Medicine,Emergency Department,120,Off Duty,Evening,17,320
+11,Donnajean Petrichat,F,Emergency Medicine,Emergency Department,107,Available,Night,21,401
+12,Juditha Prazor,F,Orthopedics,Orthopedics,403,Busy,Night,4,536
+13,Dacey Nemchinov,M,Emergency Medicine,Emergency Department,115,Busy,Evening,3,856
+14,Riley Bussons,M,Orthopedics,Orthopedics,408,Busy,Night,21,722
+15,Rinaldo Kruschev,F,Pulmonology,Pulmonology,707,Busy,Evening,29,292
+16,Elbertina Brinsden,M,Cardiology,Cardiology,613,Busy,Night,34,876
+17,Elwyn Merrywether,F,Neurology,Neurology,507,Busy,Evening,18,838
+18,Benjamin Fearnehough,M,Orthopedics,Orthopedics,403,Busy,Evening,26,742
+19,Rodolfo Meller,F,Internal Medicine,Internal Medicine,210,Off Duty,Morning,30,735
+20,Jacki Coule,M,Dermatology,Dermatology,807,Available,Night,9,249
+21,Lorain Kenner,M,General Medicine,General Medicine,915,Busy,Night,8,377
+22,Dianne Hoodlass,M,Pulmonology,Pulmonology,706,Off Duty,Morning,16,386
+23,Read Keilloh,F,Pulmonology,Pulmonology,714,Busy,Morning,22,367
+24,Darbee Tingley,M,Orthopedics,Orthopedics,414,Busy,Morning,17,628
+25,Stephenie Gammidge,F,General Surgery,Surgery,306,Available,Night,7,601
+26,Valdemar Newell,M,Cardiology,Cardiology,609,Available,Morning,14,290
+27,Hyatt Lambe,F,General Surgery,Surgery,310,Off Duty,Night,14,663
+28,Marty Gheerhaert,F,Orthopedics,Orthopedics,402,Available,Evening,28,509
+29,Rancell Gladwell,F,Pulmonology,Pulmonology,710,Available,Night,19,547
+30,Leticia Ellsbury,M,General Surgery,Surgery,311,Busy,Evening,33,224

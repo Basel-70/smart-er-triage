@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+prompt_toolkit
+sounddevice
+# humain_voice: install the HUMAIN Voice SDK separately (see README)
